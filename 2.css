@@ -1,0 +1,13 @@
+.image-text button {
+    background-color: rgb(47, 155, 197);
+    border-radius: 6px;
+    border: 20px;
+    font-size: large;
+}
+
+li .btn a {
+                background-color: rgb(65, 197, 47);
+                border-radius: 6px;
+                border: 20px;
+                font-size: large;
+                }
